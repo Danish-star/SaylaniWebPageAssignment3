@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.top-header{
+display: flex;
+ flex-direction: row;
+ justify-content: center;
+ flex-wrap: wrap;
+
+ width: 100%;
+background-color: #316DC3;
+
+   
+ 
+}
+.fab{
+    color: white;
+    
+}
+
+.one,.three{
+    margin: 20px;
+width:250px auto;
+
+}
+.two{
+    margin: 20px;
+    width:500px;
+    
+
+}
+.text{
+    color: white;
+    
+    font-style: normal;
+    font-size: 13px;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+
+button{
+    color: #537937;
+  
+}
+button li{
+    
+        list-style-type: none;
+        font-weight: 2px;
+        font-size: 12px;
+}
+
+.nav{
+    display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ max-width: 1300px;
+ min-height: 70px;
+ background-color: white;
+
+    }
+.image{
+width: 300px;
+    margin-top: 9px;
+}
+.links{
+    width: 900px;
+
+}
+.Active{
+    background-color: #316DC3;
+    border-radius: 28px;
+
+}
+.links ul li{
+    margin:10px;
+    height: 50px;
+    list-style-type:none;
+    float: left;
+   font-size: 13px;
+    font-weight: 600;
+   padding: 0px 16px;
+   line-height: 50px;
+   border-radius: 28px;
+    cursor: pointer;
+   
+}
+.links ul li:hover{
+    
+    background-color: #316DC3;
+}
+marquee{
+    background-color:
+    #316DC3;
+    color:white;
+    height: 30px;
+    margin-top: 5px;
+}
+
+
+.container-fluid{
+    background-color: #FFFFFF;
+
+}
+.green{
+    color: #00FE02;
+}
+.blue{
+    color: #224BD6;
+}
+.Paragraph{
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+   font-size: 15.10px;
+}
+.b{
+    color:#316DC3;
+}
+.g{
+    color:#427900;
+    position: relative;
+    left:-6px;
+
+}
+.Paragraph{
+    color: lightslategray;
+}
+
+.work{
+    min-height: 230px;
+    background: linear-gradient(90deg,#273c75,#353b48);
+}
+
+.col-xs-6{
+    color: white;
+padding: 60px; 
+text-align: center;
+
+  
+}
+
+.num{
+    font-size: 40px;
+} 
+i img{
+    font-size: 40px;
+    font-size: 40px;
+    width: 40px;
+}
+
+
+.Doing{
+    min-height: 230px;
+}
+
+.card{
+    height: 150px;
+  width: 320px;
+    border-radius: 10px;
+    text-align: center;
+background-color:#FFFFFF;
+    
+    float: left;
+    margin: 30px;
+    box-shadow: grey 1px 1px 1px 1px;
+
+}
+.card img{
+    width: 60px;
+}
+.s{
+    background: linear-gradient(90deg,#58B19F,#9AECDB);
+
+    min-height: 105vh;
+}
+.top-heading{
+    text-align: center;
+font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+
+}
+.card-title{
+    color: #316DC3;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+
+
+.Image{
+        
+    padding: 20px;
+text-align: center;
+color: white;
+}
+
+.gallery img{
+    width:200px;
+     height:120px;
+     margin: 10px;
+}
